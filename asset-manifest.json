@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33fd2659.css",
+    "main.js": "/static/js/main.9ffaa619.js",
+    "static/media/Poshmark-intro.png": "/static/media/Poshmark-intro.a7ed8c9ac6cdfd03a985.png",
+    "static/media/Sketch3B.png": "/static/media/Sketch3B.03ae18cd2350dcbc8e3f.png",
+    "static/media/anonymous1.png": "/static/media/anonymous1.6f711b50cdcd0401c350.png",
+    "static/media/Sketch3A.png": "/static/media/Sketch3A.ca95369fb9f8295819ae.png",
+    "static/media/Sketch3C.png": "/static/media/Sketch3C.f07e277c135821c12f94.png",
+    "static/media/sift.png": "/static/media/sift.247095ab780946c78d69.png",
+    "static/media/Sketch3D.png": "/static/media/Sketch3D.fdc8129ed349363877b7.png",
+    "static/media/intro-image.jpeg": "/static/media/intro-image.8cd046e06f150be2897a.jpeg",
+    "static/media/Wireframe3.png": "/static/media/Wireframe3.1c509db6c5f68b77d724.png",
+    "static/media/Sketch2C.jpeg": "/static/media/Sketch2C.d9ed348edd04aade2abd.jpeg",
+    "static/media/development.png": "/static/media/development.b23e53d5072fe86a07e4.png",
+    "static/media/Sketch2B.jpeg": "/static/media/Sketch2B.49641986d614b9b52b9b.jpeg",
+    "static/media/Sketch4B.png": "/static/media/Sketch4B.fa1be6d051d8c9d3d3ca.png",
+    "static/media/Sketch4C.png": "/static/media/Sketch4C.5a62d3f7d74c6b01eea7.png",
+    "static/media/Sketch4A.png": "/static/media/Sketch4A.46cf2a4a2af46f42ab6f.png",
+    "static/media/Sketch2A.jpeg": "/static/media/Sketch2A.e5cb1ded2f022dc69d6b.jpeg",
+    "static/media/rich_b.jpeg": "/static/media/rich_b.2ff4e28db44f104468a4.jpeg",
+    "static/media/Sketch1A.jpeg": "/static/media/Sketch1A.1d022f3ce62bcf6ab514.jpeg",
+    "static/media/Sketch1C.jpeg": "/static/media/Sketch1C.b7b5efb81678db49b2b0.jpeg",
+    "static/media/Sketch2D.jpeg": "/static/media/Sketch2D.15d1765350dcdf61356f.jpeg",
+    "static/media/Wireframe2.png": "/static/media/Wireframe2.f322e9290a35eed385c3.png",
+    "static/media/Sketch1B.jpeg": "/static/media/Sketch1B.b5f7ce522b0d91a68d3a.jpeg",
+    "static/media/Wireframe1.png": "/static/media/Wireframe1.2ab7674537d35779568d.png",
+    "index.html": "/index.html",
+    "main.33fd2659.css.map": "/static/css/main.33fd2659.css.map",
+    "main.9ffaa619.js.map": "/static/js/main.9ffaa619.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33fd2659.css",
+    "static/js/main.9ffaa619.js"
+  ]
+}
